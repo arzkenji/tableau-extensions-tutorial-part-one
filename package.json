@@ -1,0 +1,13 @@
+{
+  "name": "ProjectJson",
+  "version": "1.0.0",
+  "description": "My First Tableau Extension",
+  "main": "index.js",
+  "repository": "https://github.com/arzkenji/tableau-extensions-tutorial-part-one",
+  "author": "kenji",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
